@@ -21,13 +21,10 @@
 </div>
 
 ## My GitHub Stats
-<table>
+<table align=center>
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsbanotto&layout=compact"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=bsbanotto&show_icons=true"/>
         </td>
     </tr>
 </table>
