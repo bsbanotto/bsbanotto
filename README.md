@@ -24,7 +24,7 @@
 <table align=center>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsbanotto&layout=compact"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsbanotto&layout=compact&theme=panda"/>
         </td>
     </tr>
 </table>
