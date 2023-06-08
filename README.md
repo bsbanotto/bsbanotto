@@ -1,7 +1,7 @@
 # Hello, I'm Ben Sbanotto! Welcome to my GitHub
-- 🤖 I'm currently studying Machine Learning at Holberton School, Tulsa.
-- 📊 I have an unnatural enjoyment for using data to identify problems.
-- 🤝 I’m looking to collaborate on anything backend and data related.
+- 🤖 I'm currently studying Machine Learning at Holberton School, Tulsa and will graduate in December 2023.
+- 📊 I have an unnatural enjoyment for using data to identify and solve problems.
+- 🤝 I’m looking to collaborate on anything and everything data related.
 - 🏊‍♂️ 🚴‍♂️ 🏃‍♂ In May 2021, I completed my first Ironman traithlon. 15:03:30
 
 ## Toolbox
