@@ -1,10 +1,17 @@
-# Hello, I'm Ben Sbanotto! Welcome to my GitHub
-- 🤖 I'm currently studying Machine Learning at Holberton School, Tulsa and will graduate in December 2023.
-- 📊 I have an unnatural enjoyment for using data to identify and solve problems.
-- 🤝 I’m looking to collaborate on anything and everything data related.
-- 🏊‍♂️ 🚴‍♂️ 🏃‍♂ In May 2021, I completed my first Ironman traithlon. 15:03:30
-
-## Toolbox
+<h1 align=center>
+Hello 👋 I'm Ben Sbanotto! Welcome to my GitHub
+</h1>
+<h2 align=center>
+About Me
+</h2>
+<ul>
+  <li>🤖 I'm currently studying Machine Learning at Holberton School, Tulsa and will graduate in December 2023.</li>
+  <li>📊 I have an unnatural enjoyment of using data to identify and solve problems.</li>
+  <li>🤝 I’m looking to collaborate on anything and everything data related.</li>
+  <li>🏊‍♂️ 🚴‍♂️ 🏃‍♂ In May 2021, I completed my first Ironman traithlon. 15:03:30</li>
+</ul>
+<h3 align=center><a href="www.bensbanotto.com">Checkout my portfolio website!</a></h3>
+<h2 align=center>Toolbox</h2>
 <div align=center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
