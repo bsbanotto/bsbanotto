@@ -27,7 +27,7 @@ About Me
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 </div>
 
-## My GitHub Stats
+<h2 align=center>My GitHub Stats</h2>
 <table align=center>
     <tr>
         <td>
