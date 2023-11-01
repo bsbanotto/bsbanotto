@@ -10,7 +10,7 @@ About Me
   <li>🤝 I’m looking to collaborate on anything and everything data related.</li>
   <li>🏊‍♂️ 🚴‍♂️ 🏃‍♂ In May 2021, I completed my first Ironman traithlon. 15:03:30</li>
 </ul>
-<h3 align=center><a href="www.bensbanotto.com">Checkout my portfolio website!</a></h3>
+<h3 align=center><a href="https://bsbanotto.github.io">Checkout my portfolio website!</a></h3>
 <h2 align=center>Toolbox</h2>
 <div align=center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
