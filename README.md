@@ -8,7 +8,7 @@ About Me
   <li>🤖 I'm currently studying Machine Learning at Holberton School, Tulsa and will graduate in December 2023.</li>
   <li>📊 I have an unnatural enjoyment of using data to identify and solve problems.</li>
   <li>🤝 I’m looking to collaborate on anything and everything data related.</li>
-  <li>🏊‍♂️ 🚴‍♂️ 🏃‍♂ In May 2021, I completed my first Ironman traithlon. 15:03:30</li>
+  <li>🏊‍♂️ 🚴‍♂️ 🏃‍♂ In May 2021, I completed my first Ironman triathlon. 15:03:30</li>
 </ul>
 <h3 align=center><a href="https://bsbanotto.github.io">Checkout my portfolio website!</a></h3>
 <h2 align=center>Toolbox</h2>
